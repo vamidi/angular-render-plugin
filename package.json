@@ -15,7 +15,7 @@
     "angular",
     "rete.js"
   ],
-  "author": "Vitaliy Stoliarov",
+  "author": "Vitaliy Stoliarov - Changed by Valencio Hoffman",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/retejs/angular-render-plugin/issues"
