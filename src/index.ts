@@ -1,5 +1,5 @@
 import { Type } from '@angular/core';
-import { NodeEditor } from 'rete';
+import { NodeEditor } from '@vamidicreations/rete';
 import { AngularControl, ElementProps, AngularComponentData } from './types';
 import { NodeComponent } from './node/node.component';
 

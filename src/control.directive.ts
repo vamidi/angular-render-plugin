@@ -1,5 +1,5 @@
 import { Directive, Input, ElementRef, OnInit } from '@angular/core';
-import { Control } from 'rete';
+import { Control } from '@vamidicreations/rete';
 import { NodeService } from './node.service';
 
 @Directive({

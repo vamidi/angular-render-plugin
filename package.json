@@ -1,6 +1,6 @@
 {
-  "name": "rete-angular-render-plugin",
-  "version": "0.2.2",
+  "name": "@vamidicreations/rete-angular-render-plugin",
+  "version": "0.2.3",
   "scripts": {
     "ng": "ng",
     "build": "ng-packagr",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/retejs/angular-render-plugin.git"
+    "url": "git+https://github.com/vamidi/angular-render-plugin.git"
   },
   "keywords": [
     "angular",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/retejs/angular-render-plugin/issues"
   },
-  "homepage": "https://github.com/retejs/angular-render-plugin#readme",
+  "homepage": "https://github.com/vamidi/angular-render-plugin#readme",
   "peerDependencies": {
     "@angular/common": ">=7.0.0 <8.0.0",
     "@angular/core": ">=7.0.0 <8.0.0",
