@@ -1,5 +1,5 @@
 import { Directive, Input, ElementRef, OnInit } from '@angular/core';
-import { IO, Input as ReteInput } from '@vamidicreations/rete';
+import { IO, Input as ReteInput } from 'rete';
 import { NodeService } from './node.service';
 import { SocketType } from './types';
 

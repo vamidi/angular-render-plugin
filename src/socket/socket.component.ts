@@ -1,7 +1,7 @@
 import { Component, Input, ChangeDetectionStrategy, AfterViewInit } from '@angular/core';
-import { Socket, IO, Input as ReteInput } from '@vamidicreations/rete';
+import { Socket, IO, Input as ReteInput } from 'rete';
 import { SocketType } from '../types';
-import { SocketColorType } from '@vamidicreations/rete/types/socket';
+import { SocketColorType } from 'rete/types/socket';
 
 @Component({
   selector: 'rete-socket',

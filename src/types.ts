@@ -1,5 +1,5 @@
 import { Component, Type } from '@angular/core';
-import { IO, Control } from '@vamidicreations/rete';
+import { IO, Control } from 'rete';
 
 export type SocketType = 'input' | 'output';
 export type BindSocket = (el: HTMLElement, type: SocketType, io: IO) => void;

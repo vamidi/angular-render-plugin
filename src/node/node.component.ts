@@ -1,5 +1,5 @@
 import { Component, Input, ChangeDetectionStrategy, ChangeDetectorRef, OnInit } from '@angular/core';
-import { NodeEditor, Node } from '@vamidicreations/rete';
+import { NodeEditor, Node } from 'rete';
 import { NodeService } from '../node.service';
 
 @Component({
